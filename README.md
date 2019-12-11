@@ -4,6 +4,7 @@ Configuration files that allow you to generate g-code compatible with grbl using
 Just drop it to ~/.config/dxf2gcode folder.
 
 Settings to be changed:
-- Change tool diameter to 0 mm and 
+- Change tool diameter to 0 mm (or some reasonable tools so they can really be compensate) and 
 - Automatic cutter compensation to ON and
 - Cutter compensation is done by machine to OFF.
+- Remove some of automatically added starting lines
