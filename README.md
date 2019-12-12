@@ -8,3 +8,4 @@ Settings to be changed:
 - Automatic cutter compensation to ON and
 - Cutter compensation is done by machine to OFF.
 - Remove some of automatically added starting lines
+- Remove TOOL command
